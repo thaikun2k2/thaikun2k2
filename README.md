@@ -10,18 +10,6 @@
 
 ## 📫 Connect with me
 
-<p>
-  <a href="https://facebook.com/thaikun2k2">
-    <img src="https://img.icons8.com/color/48/facebook.png" width="25"/>
-    Facebook
-  </a>
-  
-  <a href="https://linkedin.com/">
-    <img src="https://i.stack.imgur.com/gVE0j.png" width="20"/>
-    LinkedIn
-  </a>
-</p>
-
 
 <p align="left">
   <a href="https://facebook.com/thaikun2k2">
