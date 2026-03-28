@@ -1,4 +1,4 @@
-# thaiku2k2
+# thaikun2k2
 <h1 align="center">Hi 👋, I'm Nguyen Van Thai</h1>
 <h3 align="center">🚀 IoT Developer | Future DevOps Engineer</h3>
 
