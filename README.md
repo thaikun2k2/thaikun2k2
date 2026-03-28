@@ -8,10 +8,9 @@ I am interested in the following topics: **Embedded Systems, IoT, DevOps, Cloud,
 
 ## 📫 Connect with me
 
-<p align="center">
-  <a href="#"><img src="(https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)(https://facebook.com/thaikun2k2)"/>https://www.facebook.com/thaikun2k2</a>
-  <a href="#"><img src="(https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)(nguyenvanthai100402@gmail.com)"/></a>
-</p>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thaikun2k2)
+[![Facebook]Facebook](https://facebook.com/thaikun2k2)
 
 ---
 
