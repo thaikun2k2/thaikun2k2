@@ -15,12 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Thai's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide=contribs,prs,issues)
-
----
-
 ## 🚀 Featured Projects
 
 <a href="https://github.com/thaikun2k2/Embedded/tree/main/GraduationProject_GreenHouse">
@@ -36,29 +30,17 @@
 * 💻 Programming: C, C++, Python
 * ⚙️ Embedded: ESP32, Arduino, PIC16F877A
 * ☁️ DevOps: Docker, Linux, Git (Learning)
+* telecommunications
 
 ---
 
 ## 🎯 Current Focus
 
-* 🚀 DevOps Engineering
-* 🐳 Docker & CI/CD
-* ☸️ Kubernetes
-* 📦 System Design
-
----
-
-
-
-
-## 🎯 Current Goals
-- 🚀 Become DevOps Engineer
-- 📦 Master Docker + CI/CD
-- ☁️ Learn Kubernetes
-- 💡 Build real-world projects
-
----
-
+* 🚀 Master Embedded Engineer
+* 🐳 DevSecOps & Clouds
+* ☸️ Embedded AI
+* 📦 FPGA
+  
 ---
 ## 💡 Quote
 
