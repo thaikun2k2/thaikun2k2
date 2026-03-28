@@ -22,6 +22,17 @@
   </a>
 </p>
 
+
+<p align="left">
+  <a href="https://facebook.com/thaikun2k2">
+    <img src="https://img.icons8.com/color/48/facebook.png" width="20" style="vertical-align:middle;"/> Facebook
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/">
+    <img src="https://i.stack.imgur.com/gVE0j.png" width="20" style="vertical-align:middle;"/> LinkedIn
+  </a>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
