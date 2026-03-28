@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://facebook.com/thaikun2k2">
-    <img src="https://img.icons8.com/color/48/facebook.png" width="20"/>
+    <img src="https://img.icons8.com/color/48/facebook.png" width="25"/>
     Facebook
   </a>
   
