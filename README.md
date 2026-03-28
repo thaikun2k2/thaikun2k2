@@ -60,10 +60,10 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/></a>
+  <a href="#"><img src="[https://img.shields.io/badge/Facebook-blue?style=for-the-badge](https://www.facebook.com/thaikun2k2)&logo=facebook"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [thaikun2k2](https://github.com/thaikun2k2)
