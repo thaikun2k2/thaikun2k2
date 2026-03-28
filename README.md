@@ -18,7 +18,7 @@
 ## 🚀 Featured Projects
 
 <a href="https://github.com/thaikun2k2/Embedded/tree/main/GraduationProject_GreenHouse">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thaikun2k2&repo=Smart-Greenhouse&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thaikun2k2&repo=Embedded&theme=radical" />
 </a>
 
 
