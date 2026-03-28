@@ -1,6 +1,6 @@
 # thaikun2k2
 <h1 align="center">Hi 👋, I'm Nguyen Van Thai</h1>
-<h3 align="center">🚀 Computer Developer | Future Embedded AI Engineer</h3>
+<h3 align="center">🚀 Embedded AI Developer | Future Embedded AI Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+systems;Always+learning+new+things..." />
@@ -20,9 +20,6 @@
 <a href="https://github.com/thaikun2k2/Embedded/tree/main/GraduationProject_GreenHouse">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thaikun2k2&repo=Embedded&theme=radical" />
 </a>
-
-
-
 
 
 ---
