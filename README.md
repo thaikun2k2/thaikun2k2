@@ -1,6 +1,6 @@
 # thaikun2k2
 <h1 align="center">Hi 👋, I'm Nguyen Van Thai</h1>
-<h3 align="center">🚀 IoT Developer | Future DevOps Engineer</h3>
+<h3 align="center">🚀 Computer Developer | Future Embedded AI Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+systems;Always+learning+new+things..." />
