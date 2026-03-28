@@ -9,7 +9,6 @@ I am interested in the following topics: **Embedded Systems, IoT, DevOps, Cloud,
 ## 📫 Connect with me
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thaikun2k2)
 [![Facebook](https://img.icons8.com/color/48/facebook.png) Facebook](https://facebook.com/thaikun2k2)
 
 ---
