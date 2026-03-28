@@ -60,7 +60,7 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="#"><img src="[https://img.shields.io/badge/Facebook-blue?style=for-the-badge](https://www.facebook.com/thaikun2k2)&logo=facebook"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/>https://www.facebook.com/thaikun2k2</a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
