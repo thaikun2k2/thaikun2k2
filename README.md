@@ -37,7 +37,7 @@
 * 💻 Programming: C, C++, Python
 * ⚙️ Embedded: ESP32, Arduino, PIC16F877A, ESP8266
 * ☁️ DevOps: Docker, Linux, Git (Learning)
-* telecommunications
+* 🧠 Network Protocol
 
 ---
 
